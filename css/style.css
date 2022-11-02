@@ -466,3 +466,12 @@ h6,
 .copyright a:hover {
     color: var(--light);
 }
+
+.navbar-toggler.me-4 {
+    margin-right: 4.5rem !important;
+}
+
+.navbar-toggler {
+    background-color:var(--primary);
+  
+}
