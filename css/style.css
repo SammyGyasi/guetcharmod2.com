@@ -467,9 +467,9 @@ h6,
     color: var(--light);
 }
 
-.navbar-toggler.me-4 {
+/*.navbar-toggler.me-4 {
     margin-right: 2rem !important;
-}
+}*/
 
 .navbar-toggler {
     background-color:var(--primary);
